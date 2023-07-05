@@ -1,5 +1,5 @@
 import Topbar from "./components/topbar/Topbar";
-import Homepage from "./pages/homepage/Homepage";
+import Homepage from "./pages/homepage/Home";
 import Login from "./pages/login/Login";
 import Register from "./pages/register/Register";
 import Settings from "./pages/settings/Settings";
